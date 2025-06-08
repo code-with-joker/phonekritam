@@ -1127,7 +1127,7 @@
     </script>
     
     <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-8439221564602264/1548065511" crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-8439221564602264" crossorigin="anonymous"></script>
 </head>
 <body>
     <div class="container">
@@ -1146,8 +1146,8 @@
             <!-- Google AdSense Ad Unit -->
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-pub-YOUR_ADSENSE_ID"
-                 data-ad-slot="YOUR_AD_SLOT_ID"
+                 data-ad-client=""ca-pub-8439221564602264"
+                 data-ad-slot="1548065511"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
             <script>
